@@ -5,4 +5,4 @@
 ![Jmspter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jmspter&theme=vue-dark&hide_border=true)
 
 ## Linguagens
-![Jmspter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jmspter&theme=vue-dark&hide_border=true)
+![Jmspter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmspter&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
