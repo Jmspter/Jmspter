@@ -1,5 +1,5 @@
 # 💫 About Me:
-Técnico em redes, Tecnólogo em redes, Bacharel em <br>Ciências e Tecnologia, Analista de cibersegurança,<br> Engenheiro da computação e comentarista de animes e mangás.
+Técnico em redes de computadores, Tecnólogo em redes de computadores, Bacharel em Ciências e Tecnologia, Analista de cibersegurança Jr, Engenheiro da computação e comentarista de animes e mangás.
 
 
 ## 🌐 Socials:
