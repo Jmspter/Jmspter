@@ -1,5 +1,5 @@
 # 💫 About Me:
-Técnico em redes de computadores, Tecnólogo em redes de computadores, Bacharel em Ciências e Tecnologia, Analista de cibersegurança Jr, Engenheiro da computação e comentarista de animes e mangás.
+Hello, I'm James Peter. I'm a Computer Network Technician, with degrees in Computer Networking Technology, Science and Technology, and Computer Engineering. I also work as a Junior Cybersecurity Analyst.
 
 
 ## 🌐 Socials:
