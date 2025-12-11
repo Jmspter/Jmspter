@@ -8,7 +8,7 @@ I architect scalable systems and build high-performance APIs. My focus is on cre
 * ⚡ **Performance:** Optimizing systems for 10M+ requests/day with 99% uptime.
 * 🔒 **Security:** Implementing OAuth, JWT, and encryption standards.
 
-[View my Portfolio](jamespeter.dev)
+[View my Portfolio](https://jamespeter.dev)
 
 
 ## 🌐 Socials:
