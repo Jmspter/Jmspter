@@ -27,4 +27,4 @@ I architect scalable systems and build high-performance APIs. My focus is on cre
 ---
 [![](https://visitcount.itsvg.in/api?id=Jmspter&icon=9&color=0)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmspter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmspter&layout=compact&theme=dark&hide=html,css)
